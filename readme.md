@@ -1,12 +1,10 @@
-# Irisama
+# Iris Website
 
 The code repository for my daughters website, for learning basic web development.
 
-## Docker Flow
-
 ### Installation
 
-1. `git clone git@github.com:Wo33er/irisama.git`
+1. `git clone git@github.com:Wo33er/iris-website.git`
 
 ### Running
 
